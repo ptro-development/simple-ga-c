@@ -1,0 +1,9 @@
+CXX = gcc -I/home/snumrik/workspace-c/gnuplot_i/src/ -L /home/snumrik/workspace-c/gnuplot_i/ -lm
+CC = gcc -I/home/snumrik/workspace-c/gnuplot_i/src/ -L /home/snumrik/workspace-c/gnuplot_i/ -lm
+
+all:            show_best_member_gene
+
+show_best_member_gene:    show_best_member_gene.c /home/snumrik/workspace-c/gnuplot_i/gnuplot_i.o
+
+clean clear:            
+	rm -f show_best_member_gene.o show_best_member_gene

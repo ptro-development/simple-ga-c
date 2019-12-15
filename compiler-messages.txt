@@ -1,0 +1,14 @@
+/home/pwrap/workspace-c/SimpleGa/SimpleGa/population.h|20|note: expected ‘struct TrainingData *’ but argument is of type ‘struct TrainingData *’|
+
+---
+/home/pwrap/workspace-c/SimpleGa/SimpleGa/population.c|201|error: conflicting types for ‘generate_population’|
+
+- only adjusted order of header files fixed the problem
+- or there can be include "xyz.h" in wrong header file
+- an order of header files is important, e.g.
+
+
+#include a
+#include b
+
+function(struct Member a, struct Member b){} 

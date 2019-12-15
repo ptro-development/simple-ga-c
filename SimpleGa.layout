@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="context.c" open="0" top="0" tabpos="9">
+		<Cursor position="1881" topLine="44" />
+	</File>
+	<File name="context.h" open="0" top="0" tabpos="11">
+		<Cursor position="1076" topLine="0" />
+	</File>
+	<File name="fifo.c" open="0" top="0" tabpos="3">
+		<Cursor position="610" topLine="0" />
+	</File>
+	<File name="fifo.h" open="0" top="0" tabpos="10">
+		<Cursor position="31" topLine="0" />
+	</File>
+	<File name="gene_definition.c" open="0" top="0" tabpos="11">
+		<Cursor position="369" topLine="1" />
+	</File>
+	<File name="gene_definition.h" open="0" top="0" tabpos="12">
+		<Cursor position="460" topLine="0" />
+	</File>
+	<File name="line.c" open="0" top="0" tabpos="0">
+		<Cursor position="204" topLine="1" />
+	</File>
+	<File name="line.h" open="0" top="0" tabpos="5">
+		<Cursor position="269" topLine="0" />
+	</File>
+	<File name="main.c" open="0" top="0" tabpos="1">
+		<Cursor position="4416" topLine="12" />
+	</File>
+	<File name="member.c" open="0" top="0" tabpos="7">
+		<Cursor position="1582" topLine="0" />
+	</File>
+	<File name="member.h" open="0" top="0" tabpos="11">
+		<Cursor position="785" topLine="0" />
+	</File>
+	<File name="mutation.c" open="0" top="0" tabpos="2">
+		<Cursor position="311" topLine="72" />
+	</File>
+	<File name="mutation.h" open="0" top="0" tabpos="5">
+		<Cursor position="437" topLine="0" />
+	</File>
+	<File name="normal_distribution.c" open="0" top="0" tabpos="10">
+		<Cursor position="190" topLine="0" />
+	</File>
+	<File name="normal_distribution.h" open="0" top="0" tabpos="13">
+		<Cursor position="292" topLine="0" />
+	</File>
+	<File name="population.c" open="0" top="0" tabpos="4">
+		<Cursor position="1765" topLine="54" />
+	</File>
+	<File name="population.h" open="0" top="0" tabpos="3">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="record.c" open="0" top="0" tabpos="10">
+		<Cursor position="14" topLine="0" />
+	</File>
+	<File name="selection.c" open="0" top="0" tabpos="10">
+		<Cursor position="218" topLine="0" />
+	</File>
+	<File name="selection.h" open="0" top="0" tabpos="5">
+		<Cursor position="40" topLine="0" />
+	</File>
+	<File name="training_data.c" open="0" top="0" tabpos="13">
+		<Cursor position="1028" topLine="20" />
+	</File>
+	<File name="training_data.h" open="0" top="0" tabpos="14">
+		<Cursor position="191" topLine="0" />
+	</File>
+	<File name="transform_switch.c" open="0" top="0" tabpos="12">
+		<Cursor position="1220" topLine="0" />
+	</File>
+	<File name="transform_switch.h" open="0" top="0" tabpos="13">
+		<Cursor position="738" topLine="0" />
+	</File>
+	<File name="utils.c" open="0" top="0" tabpos="5">
+		<Cursor position="1914" topLine="47" />
+	</File>
+	<File name="utils.h" open="0" top="0" tabpos="6">
+		<Cursor position="775" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
